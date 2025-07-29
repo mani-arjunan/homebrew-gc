@@ -1,4 +1,4 @@
-class Mycli < Formula
+class GitCloneCli < Formula
   desc "Github clone CLI tool"
   homepage "https://github.com/mani-arjunan/git-clone-cli"
   url "https://github.com/mani-arjunan/git-clone-cli/releases/download/v1/git-clone-cli"
