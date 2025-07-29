@@ -6,6 +6,6 @@ class GitCloneCli < Formula
   version "0.1.0"
 
   def install
-    bin.install "git-clone-cli-darwin-amd64" => "git-clone-cli"
+    bin.install "git-clone-cli" => "git-clone-cli"
   end
 end
