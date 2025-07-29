@@ -1,4 +1,4 @@
-class GitCloneCli < Formula
+class Gc < Formula
   desc "Github clone CLI tool"
   homepage "https://github.com/mani-arjunan/git-clone-cli"
   url "https://github.com/mani-arjunan/git-clone-cli/releases/download/v2/git-clone-cli"
